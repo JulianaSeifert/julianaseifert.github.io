@@ -1,1 +1,0 @@
-# julianaseifert.github.io
