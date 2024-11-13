@@ -98,8 +98,14 @@ a:hover {
 }
 
 .parallax-window {
-  min-height: 1100px;
+  min-height: 900px;
   background: transparent;
+}
+/* CSS para dispositivos móveis */
+@media (max-width: 768px) {
+  .parallax-window {
+    min-height: 1200px;
+  }
 }
 
 #tmContact {
