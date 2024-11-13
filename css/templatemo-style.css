@@ -104,7 +104,7 @@ a:hover {
 /* CSS para dispositivos móveis */
 @media (max-width: 768px) {
   .parallax-window {
-    min-height: 1200px;
+    min-height: 1400px;
   }
 }
 
